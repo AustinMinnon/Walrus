@@ -1,0 +1,6 @@
+{
+  "name": "Animal Conversations",
+  "tagline": "jQuery practice - Show/Hide",
+  "body": "# Clicking Walrus\r\n\r\n#### Practice using jQuery 1.11.16\r\n\r\n#### By Michelle Brecunier, Austin Minnon\r\n\r\n## Description\r\n\r\nWhen you click on an html element an alert will pop up.\r\n\r\n## Setup/Installation Requirements\r\n\r\n* clone repository\r\n* open in browser\r\n\r\n## Known Bugs\r\n\r\nNo known bugs\r\n\r\n## Technologies Used\r\n\r\n* html\r\n* css\r\n* js\r\n\r\n### License\r\n\r\nMIT License\r\n\r\nCopyright (c) 2016 **Michelle Brecunier and Austin Minnon Epicodus**\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
